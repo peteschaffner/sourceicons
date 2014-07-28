@@ -1,14 +1,10 @@
-# Source code icon set
+# SourceIcons
 
-This is a set of icons for source code files. They're mainly focused around
-Cocoa development. I've included the PSDs in case your favourite file format is
-missing.
+A collection of retina-ready icons for your source code files. Includes
+templates in both PSD and Sketch formats, so you can roll your own!
 
-You can put the icons in `/Developer/Applications/Xcode.app/Contents/Resources/`
-(make sure to keep the icon icons around). I couldn't get Xcode to use them for
-the source list, but they look nice in the Finder.
-
-The purple icon with green spots is for your most hated language. I chose PHP.
+This is a fork of [@fileability](https://github.com/fileability)’s
+[Source Code Icons project](http://fileability.net/sourceicons/).
 
 ## Licence
 
